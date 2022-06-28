@@ -1,0 +1,33 @@
+body{
+     font-family:'Staatliches', cursive ;
+     background-color: lightcyan;
+}
+.header_div{
+    background-color: indianred;
+    color: darkslateblue;
+}
+.header_div p{
+    font-family:'Pacifico', cursive ;
+    color: olive;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.name_div button{
+    font-family:'Shadows Into Light', cursive ;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copyright_photo{
+    position: fixed;
+    color: darkolivegreen;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: darkgrey;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px  5px   5px   purple;
+}
